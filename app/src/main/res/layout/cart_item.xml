@@ -26,7 +26,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_marginEnd="10dp"
-            android:background="#03A9F4"
+            android:background="@drawable/rounded_corner"
             android:padding="3dp"
             android:text="Delete"
             android:textColor="#FFF"

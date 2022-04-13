@@ -3,6 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Programming/AndroidProjects/GroceryStore/app/src/main/res/drawable/rounded_corner.xml" value="0.2275" />
+        <entry key="..\:/Programming/AndroidProjects/GroceryStore/app/src/main/res/layout/activity_grocery.xml" value="0.25625" />
+        <entry key="..\:/Programming/AndroidProjects/GroceryStore/app/src/main/res/layout/activity_search.xml" value="0.25625" />
+        <entry key="..\:/Programming/AndroidProjects/GroceryStore/app/src/main/res/layout/activity_website.xml" value="0.25625" />
+        <entry key="..\:/Programming/AndroidProjects/GroceryStore/app/src/main/res/layout/cart_item.xml" value="0.25625" />
+        <entry key="..\:/Programming/AndroidProjects/GroceryStore/app/src/main/res/layout/dialog_add_review.xml" value="0.25625" />
+        <entry key="..\:/Programming/AndroidProjects/GroceryStore/app/src/main/res/layout/dialog_all_categories.xml" value="0.25625" />
+        <entry key="..\:/Programming/AndroidProjects/GroceryStore/app/src/main/res/layout/dialog_licences.xml" value="0.25625" />
+        <entry key="..\:/Programming/AndroidProjects/GroceryStore/app/src/main/res/layout/first_cart_fragment.xml" value="0.25625" />
+        <entry key="..\:/Programming/AndroidProjects/GroceryStore/app/src/main/res/layout/fragment_cart.xml" value="0.25625" />
+        <entry key="..\:/Programming/AndroidProjects/GroceryStore/app/src/main/res/layout/fragment_main.xml" value="0.25625" />
+        <entry key="..\:/Programming/AndroidProjects/GroceryStore/app/src/main/res/layout/fragment_payment_result.xml" value="0.25625" />
+        <entry key="..\:/Programming/AndroidProjects/GroceryStore/app/src/main/res/layout/grocery_item.xml" value="0.25625" />
+        <entry key="..\:/Programming/AndroidProjects/GroceryStore/app/src/main/res/layout/navigation_drawer_header.xml" value="0.25625" />
+        <entry key="..\:/Programming/AndroidProjects/GroceryStore/app/src/main/res/layout/reviews_item.xml" value="0.25625" />
+        <entry key="..\:/Programming/AndroidProjects/GroceryStore/app/src/main/res/layout/second_cart_fragment.xml" value="0.25625" />
+        <entry key="..\:/Programming/AndroidProjects/GroceryStore/app/src/main/res/layout/third_cart_fragment.xml" value="0.25625" />
         <entry key="..\:/Programming/GroceryStore/app/src/main/res/drawable-anydpi/ic_cart.xml" value="0.165" />
         <entry key="..\:/Programming/GroceryStore/app/src/main/res/drawable-anydpi/ic_search.xml" value="0.165" />
         <entry key="..\:/Programming/GroceryStore/app/src/main/res/drawable-anydpi/ic_star.xml" value="0.227" />

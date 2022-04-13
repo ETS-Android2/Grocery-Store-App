@@ -5,7 +5,7 @@
     android:layout_height="176dp"
     android:gravity="bottom"
     android:paddingStart="10dp"
-    android:background="@drawable/blue_background"
+    android:background="#f5bc42"
     >
 <ImageView
     android:layout_width="70dp"
